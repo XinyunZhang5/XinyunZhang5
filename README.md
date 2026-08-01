@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/xinyun-lila-zhang/"><img src="https://img.shields.io/badge/LinkedIn-Xinyun_(Lila)_Zhang-cba6f7?style=for-the-badge&logo=linkedin&logoColor=cba6f7&labelColor=1e1e2e&color=313244" /></a>
   <a href="mailto:lilazh2026@gmail.com"><img src="https://img.shields.io/badge/Email-lilazh2026-a6e3a1?style=for-the-badge&logo=gmail&logoColor=a6e3a1&labelColor=1e1e2e&color=313244" /></a>
-  <img src="https://komarev.com/ghpvc/?username=XinyunZhang5&style=for-the-badge&color=cba6f7&labelColor=1e1e2e&label=PROFILE+VIEWS" />
 </p>
 
 ---
