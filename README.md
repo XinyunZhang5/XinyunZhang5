@@ -12,7 +12,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **CS + Math** @ University of Illinois Urbana-Champaign · 2027 · GPA 3.91 · *James Scholar & Dean's List*
-- 🔬 Research @ **Luyan Lab** — stochastic inventory optimization for pharmaceutical supply chains: Poisson demand models and a closed-form optimal procurement quantity that minimises expected holding, stockout and expiry cost
+- 🔬 Research @ **Irisk Lab** — stochastic inventory optimization for pharmaceutical supply chains: Poisson demand models and a closed-form optimal procurement quantity that minimises expected holding, stockout and expiry cost
 - 💼 **SWE Intern @ Dexmate** — fullstack platform and in-product AI features
 - 💼 ex-SWE @ **ChatSlide.ai** | ex-backend for a gaming social app
 - 🛠️ Currently building [**Whisper Helper**](https://github.com/XinyunZhang5/whisper-helper) (offline macOS voice input) and [**Chatcurso**](https://github.com/XinyunZhang5/Chatcurso) (local-first study notebook)
