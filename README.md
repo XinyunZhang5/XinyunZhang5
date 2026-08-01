@@ -11,11 +11,13 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **CS + Math** @ University of Illinois Urbana-Champaign · 2027 
-- 💼 **SWE Intern @ Dexmate** — fullstack platform and in-product AI features
-- 💼 ex-SWE @ **ChatSlide.ai** | ex-backend for a gaming social app
-- 🔬 Research @ **Irisk Lab** — stochastic inventory optimization for pharmaceutical supply chains
-- 🛹 Dancer, pianist, skateboarder
+- 🎓 **CS + Math** @ University of Illinois Urbana-Champaign · 2027 · GPA 3.91 · *James Scholar & Dean's List*
+- 💼 **SWE Intern @ Dexmate** — built an in-house auth and authorization platform in **Rust** that replaced WorkOS, with multi-tenant SSO and **SpiceDB** relationship-based permissions; shipped an in-product **LangGraph** agent exposing 15+ operations over **MCP**, and a Notion-style collaborative doc suite on ProseMirror
+- 💼 ex-SWE @ **ChatSlide.ai** — RAG slide generation: structure-aware chunking, query rewriting and metadata reranking, top-3 retrieval 62% → 81%; re-architected generation into a **Celery + Redis** async pipeline
+- 💼 ex-SWE @ **DummyNode** — gaming social backend: fanout-on-write feeds, WebSocket chat and notifications, cursor-paginated queries in PostgreSQL
+- 🔬 Research @ **Luyan Lab** — stochastic inventory optimization for pharmaceutical supply chains: Poisson demand models and a closed-form optimal procurement quantity that minimizes expected holding, stockout and expiry cost
+- 🛠️ Currently building [**Whisper Helper**](https://github.com/XinyunZhang5/whisper-helper) (offline macOS voice input) and [**Chatcurso**](https://github.com/XinyunZhang5/Chatcurso) (local-first study notebook)
+- 💃 Dancer, pianist, skateboarder and a stubborn basketball player
 - 🌱 Exploring on-device ML, local LLM inference and AI-assisted workflows
 
 ---
@@ -24,28 +26,43 @@
 
 <table>
   <tr>
-    <td align="center" width="140"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,ts,js,rust,swift,cpp,java,lua,latex&theme=dark" /></td>
+    <td align="center" width="150"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,rust,cpp,c,ts,js,java,swift,lua,latex&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center"><b>AI / ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,anaconda&theme=dark" /></td>
+    <td align="center"><b>AI / LLM</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" /><br>
+      <img src="https://img.shields.io/badge/LangChain-313244?style=for-the-badge&logo=langchain&logoColor=cba6f7&labelColor=1e1e2e" />
+      <img src="https://img.shields.io/badge/Hugging_Face-313244?style=for-the-badge&logo=huggingface&logoColor=cba6f7&labelColor=1e1e2e" />
+      <img src="https://img.shields.io/badge/MCP-313244?style=for-the-badge&labelColor=1e1e2e" />
+      <img src="https://img.shields.io/badge/RAG_+_VectorDB-313244?style=for-the-badge&labelColor=1e1e2e" />
+    </td>
   </tr>
   <tr>
     <td align="center"><b>Web</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,vite,tailwind,html,css&theme=dark" /></td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,supabase,sqlite&theme=dark" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" /><br>
+      <img src="https://img.shields.io/badge/Celery-313244?style=for-the-badge&logo=celery&logoColor=a6e3a1&labelColor=1e1e2e" />
+      <img src="https://img.shields.io/badge/REST-313244?style=for-the-badge&labelColor=1e1e2e" />
+      <img src="https://img.shields.io/badge/WebSocket-313244?style=for-the-badge&labelColor=1e1e2e" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,sqlite&theme=dark" /></td>
   </tr>
   <tr>
     <td align="center"><b>Infra</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,aws,vercel,githubactions,linux,bash,git&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,githubactions,linux,bash,git&theme=dark" /></td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,xcode,figma,postman,notion&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,figma,postman,notion,jest&theme=dark" /></td>
   </tr>
 </table>
 
@@ -74,7 +91,7 @@ A floating mic button for macOS. Click, speak, and it types into Claude Code or 
 
 Compare your dance take against a reference video and get plain-language coaching tips. On-device **pose estimation, audio alignment and a phrase-bank engine**, with an LLM fallback.
 
-<img src="https://skillicons.dev/icons?i=swift,xcode,apple&theme=dark" height="36" />
+<img src="https://skillicons.dev/icons?i=swift,apple&theme=dark" height="36" />
 
 </td>
 </tr>
@@ -109,6 +126,8 @@ Turn AI conversations and web clippings into review cards. Captures ChatGPT, Cla
 
 <br>
 
+- ⚙️ **Distributed CI on Kubernetes** — containerized build agents running jobs in parallel, with REST orchestration, pipeline state tracking and pod lifecycle tuning. Roughly 2.5× the throughput of sequential runs.
+- 🧮 **Custom memory allocator in C** — an `sbrk`-backed heap with aligned block metadata and an explicit free list, block splitting and coalescing to fight fragmentation, in-place `realloc`, and a heap checker for stress testing.
 - 💌 **HERa** — write a letter, share a link, open it with a password. Encrypted at rest. [API](https://github.com/H-ERa/HERa-backend) · [web](https://github.com/H-ERa/frontend_react_vite)
 - 📈 **Stock sentiment predictor** — a Reddit scraper feeding a sentiment pipeline that scores tickers. UIUC CS 222 team project.
 - 📄 **Optimal procurement quantity** — the Luyan Lab paper above: Poisson demand, expected-cost objective, closed-form threshold for the optimal order size.
