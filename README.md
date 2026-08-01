@@ -12,25 +12,44 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Math + CS** @ University of Illinois Urbana-Champaign · 2027 · GPA 3.91 · *James Scholar & Dean's List*
-- 💼 **SWE Intern @ Dexmate** — building fullstack platform & in-product AI features; previously **ChatSlide.ai** and a gaming social backend
-- 🛠️ A maker across the stack — I ship **macOS tools, full-stack web apps, on-device ML, and low-level systems**
-- 🌱 Into **AI-assisted workflows, local LLM inference, and computer vision**
-- 💡 Most of my projects start the same way: *"this should exist — let me just build it"*
+- 🎓 **CS + Math** @ University of Illinois Urbana-Champaign · 2027 · GPA 3.91 · *James Scholar & Dean's List*
+- 🔬 Research @ **Luyan Lab** — stochastic inventory optimization for pharmaceutical supply chains: Poisson demand models and a closed-form optimal procurement quantity that minimises expected holding, stockout and expiry cost
+- 💼 **SWE Intern @ Dexmate** — fullstack platform and in-product AI features
+- 💼 ex-SWE @ **ChatSlide.ai** | ex-backend for a gaming social app
+- 🛠️ Currently building [**Whisper Helper**](https://github.com/XinyunZhang5/whisper-helper) (offline macOS voice input) and [**Chatcurso**](https://github.com/XinyunZhang5/Chatcurso) (local-first study notebook)
+- 💃 Dancer, pianist, skateboarder and a stubborn basketball player
+- 🌱 Exploring on-device ML, local LLM inference and AI-assisted workflows
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,cpp,python,typescript,javascript,java,swift,lua&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,fastapi,redux,tailwind&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kubernetes,aws,gcp,git,linux&theme=dark" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="140"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,ts,js,rust,swift,cpp,java,lua,latex&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,anaconda&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,supabase,sqlite&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Infra</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,vercel,githubactions,linux,bash,git&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,xcode,figma,postman,notion&theme=dark" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -38,44 +57,65 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🎤 [Whisper Helper](https://github.com/XinyunZhang5/whisper-helper)
-A free, **fully-offline** voice-input companion for macOS. A floating mic button that lets you *speak* and have it typed into Claude Code or any app, powered by **Whisper.cpp** and OpenCC (Simplified Chinese by default, English too).
 
-`Lua` · `Hammerspoon` · `Whisper.cpp` · `local-first`
+<img src="https://img.shields.io/github/stars/XinyunZhang5/whisper-helper?style=flat-square&logo=github&label=stars&labelColor=1e1e2e&color=313244" />
+
+A floating mic button for macOS. Click, speak, and it types into Claude Code or any other app. Runs on **whisper.cpp** entirely offline, Simplified Chinese by default.
+
+<img src="https://skillicons.dev/icons?i=lua,cpp,apple&theme=dark" height="36" />
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🕺 [对帧 · Reframe](https://github.com/XinyunZhang5/danceflux)
-Compare your dance take against a reference video and get **plain-language coaching tips** on exactly what to fix. On-device **pose estimation + audio alignment + a phrase-bank engine** that degrades gracefully to an LLM fallback.
 
-`Swift` · `Vision` · `on-device ML` · `DSP`
+<img src="https://img.shields.io/github/stars/XinyunZhang5/danceflux?style=flat-square&logo=github&label=stars&labelColor=1e1e2e&color=313244" />
+
+Compare your dance take against a reference video and get plain-language coaching tips. On-device **pose estimation, audio alignment and a phrase-bank engine**, with an LLM fallback.
+
+<img src="https://skillicons.dev/icons?i=swift,xcode,apple&theme=dark" height="36" />
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🧱 [Nebular Design](https://github.com/XinyunZhang5/nebular-design)
-Upload a photo of a building → convert it to 3D → **match it to real LEGO bricks** → generate step-by-step assembly instructions, plus a social layer to share builds.
 
-`TypeScript` · `Python` · `AI` · `Flask`
+<img src="https://img.shields.io/github/stars/XinyunZhang5/nebular-design?style=flat-square&logo=github&label=stars&labelColor=1e1e2e&color=313244" />
+
+Photograph a building and get a real LEGO parts list plus step-by-step build instructions. **Depth estimation** feeding Claude, wrapped in a Next.js front end.
+
+<img src="https://skillicons.dev/icons?i=ts,nextjs,python,fastapi&theme=dark" height="36" />
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 💬 [Chatcurso](https://github.com/XinyunZhang5/Chatcurso)
-A Chrome extension that quietly captures **every prompt you send to ChatGPT** and lists them in a collapsible side panel. 100% local — no backend, no accounts, no network calls.
 
-`JavaScript` · `Chrome Extension` · `Manifest V3`
+<img src="https://img.shields.io/github/stars/XinyunZhang5/Chatcurso?style=flat-square&logo=github&label=stars&labelColor=1e1e2e&color=313244" />
+
+Turn AI conversations and web clippings into review cards. Captures ChatGPT, Claude and Gemini, schedules them with **SM-2**, and never leaves your machine.
+
+<img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind&theme=dark" height="36" />
 
 </td>
 </tr>
 </table>
 
-<p align="center"><i>… and more brewing — open to collaborations & cool projects ✨</i></p>
+<details>
+<summary><b>📁 More projects</b></summary>
+
+<br>
+
+- 💌 **HERa** — write a letter, share a link, open it with a password. Encrypted at rest. [API](https://github.com/H-ERa/HERa-backend) · [web](https://github.com/H-ERa/frontend_react_vite)
+- 📈 **Stock sentiment predictor** — a Reddit scraper feeding a sentiment pipeline that scores tickers. UIUC CS 222 team project.
+- 📄 **Optimal procurement quantity** — the Luyan Lab paper above: Poisson demand, expected-cost objective, closed-form threshold for the optimal order size.
+
+</details>
 
 ---
 
