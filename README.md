@@ -15,8 +15,7 @@
 - 🔬 Research @ **Irisk Lab** — stochastic inventory optimization for pharmaceutical supply chains
 - 💼 **SWE Intern @ Dexmate** — fullstack platform and in-product AI features
 - 💼 ex-SWE @ **ChatSlide.ai** | ex-backend for a gaming social app
-- 🛠️ Currently building [**Whisper Helper**](https://github.com/XinyunZhang5/whisper-helper) (offline macOS voice input) and [**Chatcurso**](https://github.com/XinyunZhang5/Chatcurso) (local-first study notebook)
-- 💃 Dancer, pianist, skateboarder and a stubborn basketball player
+- 🛹 Dancer, pianist, skateboarder
 - 🌱 Exploring on-device ML, local LLM inference and AI-assisted workflows
 
 ---
