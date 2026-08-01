@@ -12,12 +12,10 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **CS + Math** @ University of Illinois Urbana-Champaign · 2027
-- 💼 **SWE Intern @ Dexmate**
-- 💼 ex-SWE @ **ChatSlide.ai** 
-- 💼 ex-SWE @ **DummyNode** — gaming social backen
-- 🔬 Research @ **Luyan Lab** — stochastic inventory optimization for pharmaceutical supply chains: Poisson demand models and a closed-form optimal procurement quantity that minimizes expected holding, stockout and expiry cost
-- 🛠️ Currently building [**Whisper Helper**](https://github.com/XinyunZhang5/whisper-helper) (offline macOS voice input) and [**Chatcurso**](https://github.com/XinyunZhang5/Chatcurso) (local-first study notebook)
-- 💃 Dancer, pianist, skateboarder and a stubborn basketball player
+- 💼 **SWE Intern @ Dexmate** — fullstack platform and in-product AI features
+- 💼 ex-SWE @ **ChatSlide.ai** | ex-backend for a gaming social app
+- 🔬 Research @ **Irisk Lab** — stochastic inventory optimization for pharmaceutical supply chains
+- 🛹 Dancer, pianist, skateboarder
 - 🌱 Exploring on-device ML, local LLM inference and AI-assisted workflows
 
 ---
@@ -27,17 +25,11 @@
 <table>
   <tr>
     <td align="center" width="150"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,rust,cpp,c,ts,js,java,swift,lua,latex&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python,ts,js,rust,swift,cpp,c,java,lua,latex&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center"><b>AI / LLM</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" /><br>
-      <img src="https://img.shields.io/badge/LangChain-313244?style=for-the-badge&logo=langchain&logoColor=cba6f7&labelColor=1e1e2e" />
-      <img src="https://img.shields.io/badge/Hugging_Face-313244?style=for-the-badge&logo=huggingface&logoColor=cba6f7&labelColor=1e1e2e" />
-      <img src="https://img.shields.io/badge/MCP-313244?style=for-the-badge&labelColor=1e1e2e" />
-      <img src="https://img.shields.io/badge/RAG_+_VectorDB-313244?style=for-the-badge&labelColor=1e1e2e" />
-    </td>
+    <td align="center"><b>AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,anaconda&theme=dark" /></td>
   </tr>
   <tr>
     <td align="center"><b>Web</b></td>
@@ -45,16 +37,7 @@
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" /><br>
-      <img src="https://img.shields.io/badge/Celery-313244?style=for-the-badge&logo=celery&logoColor=a6e3a1&labelColor=1e1e2e" />
-      <img src="https://img.shields.io/badge/REST-313244?style=for-the-badge&labelColor=1e1e2e" />
-      <img src="https://img.shields.io/badge/WebSocket-313244?style=for-the-badge&labelColor=1e1e2e" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,sqlite&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mysql,mongodb,redis,supabase,sqlite&theme=dark" /></td>
   </tr>
   <tr>
     <td align="center"><b>Infra</b></td>
@@ -130,7 +113,7 @@ Turn AI conversations and web clippings into review cards. Captures ChatGPT, Cla
 - 🧮 **Custom memory allocator in C** — an `sbrk`-backed heap with aligned block metadata and an explicit free list, block splitting and coalescing to fight fragmentation, in-place `realloc`, and a heap checker for stress testing.
 - 💌 **HERa** — write a letter, share a link, open it with a password. Encrypted at rest. [API](https://github.com/H-ERa/HERa-backend) · [web](https://github.com/H-ERa/frontend_react_vite)
 - 📈 **Stock sentiment predictor** — a Reddit scraper feeding a sentiment pipeline that scores tickers. UIUC CS 222 team project.
-- 📄 **Optimal procurement quantity** — the Luyan Lab paper above: Poisson demand, expected-cost objective, closed-form threshold for the optimal order size.
+- 📄 **Optimal procurement quantity** — the Irisk Lab paper above: Poisson demand, expected-cost objective, closed-form threshold for the optimal order size.
 
 </details>
 
