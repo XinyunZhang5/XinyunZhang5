@@ -11,10 +11,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **CS + Math** @ University of Illinois Urbana-Champaign · 2027 · GPA 3.91 · *James Scholar & Dean's List*
-- 💼 **SWE Intern @ Dexmate** — built an in-house auth and authorization platform in **Rust** that replaced WorkOS, with multi-tenant SSO and **SpiceDB** relationship-based permissions; shipped an in-product **LangGraph** agent exposing 15+ operations over **MCP**, and a Notion-style collaborative doc suite on ProseMirror
-- 💼 ex-SWE @ **ChatSlide.ai** — RAG slide generation: structure-aware chunking, query rewriting and metadata reranking, top-3 retrieval 62% → 81%; re-architected generation into a **Celery + Redis** async pipeline
-- 💼 ex-SWE @ **DummyNode** — gaming social backend: fanout-on-write feeds, WebSocket chat and notifications, cursor-paginated queries in PostgreSQL
+- 🎓 **CS + Math** @ University of Illinois Urbana-Champaign · 2027
+- 💼 **SWE Intern @ Dexmate**
+- 💼 ex-SWE @ **ChatSlide.ai** 
+- 💼 ex-SWE @ **DummyNode** — gaming social backen
 - 🔬 Research @ **Luyan Lab** — stochastic inventory optimization for pharmaceutical supply chains: Poisson demand models and a closed-form optimal procurement quantity that minimizes expected holding, stockout and expiry cost
 - 🛠️ Currently building [**Whisper Helper**](https://github.com/XinyunZhang5/whisper-helper) (offline macOS voice input) and [**Chatcurso**](https://github.com/XinyunZhang5/Chatcurso) (local-first study notebook)
 - 💃 Dancer, pianist, skateboarder and a stubborn basketball player
