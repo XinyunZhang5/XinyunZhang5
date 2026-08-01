@@ -12,9 +12,9 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **CS + Math** @ University of Illinois Urbana-Champaign · 2027 
-- 🔬 Research @ **Irisk Lab** — stochastic inventory optimization for pharmaceutical supply chains
 - 💼 **SWE Intern @ Dexmate** — fullstack platform and in-product AI features
 - 💼 ex-SWE @ **ChatSlide.ai** | ex-backend for a gaming social app
+- 🔬 Research @ **Irisk Lab** — stochastic inventory optimization for pharmaceutical supply chains
 - 🛹 Dancer, pianist, skateboarder
 - 🌱 Exploring on-device ML, local LLM inference and AI-assisted workflows
 
