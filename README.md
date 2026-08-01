@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **CS + Math** @ University of Illinois Urbana-Champaign · 2027 · GPA 3.91 · *James Scholar & Dean's List*
+- 🎓 **CS + Math** @ University of Illinois Urbana-Champaign · 2027 
 - 🔬 Research @ **Irisk Lab** — stochastic inventory optimization for pharmaceutical supply chains
 - 💼 **SWE Intern @ Dexmate** — fullstack platform and in-product AI features
 - 💼 ex-SWE @ **ChatSlide.ai** | ex-backend for a gaming social app
