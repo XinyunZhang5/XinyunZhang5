@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td align="center"><b>AI / ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,anaconda&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" /></td>
   </tr>
   <tr>
     <td align="center"><b>Web</b></td>
