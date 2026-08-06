@@ -68,7 +68,7 @@ A floating mic button for macOS. Click, speak, and it types into Claude Code or 
 </td>
 <td width="50%" valign="top" align="center">
 
-### 🕺 [对帧 · Reframe](https://github.com/XinyunZhang5/danceflux)
+### 🕺 [Danceflux](https://github.com/XinyunZhang5/danceflux)
 
 <img src="https://img.shields.io/github/stars/XinyunZhang5/danceflux?style=flat-square&logo=github&label=stars&labelColor=1e1e2e&color=313244" />
 
