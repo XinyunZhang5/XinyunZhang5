@@ -57,30 +57,6 @@
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 🎤 [Whisper Helper](https://github.com/XinyunZhang5/whisper-helper)
-
-<img src="https://img.shields.io/github/stars/XinyunZhang5/whisper-helper?style=flat-square&logo=github&label=stars&labelColor=1e1e2e&color=313244" />
-
-A floating mic button for macOS. Click, speak, and it types into Claude Code or any other app. Runs on **whisper.cpp** entirely offline, Simplified Chinese by default.
-
-<img src="https://skillicons.dev/icons?i=lua,cpp,apple&theme=dark" height="36" />
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 🕺 [Danceflux](https://github.com/XinyunZhang5/danceflux)
-
-<img src="https://img.shields.io/github/stars/XinyunZhang5/danceflux?style=flat-square&logo=github&label=stars&labelColor=1e1e2e&color=313244" />
-
-Compare your dance take against a reference video and get plain-language coaching tips. On-device **pose estimation, audio alignment and a phrase-bank engine**, with an LLM fallback.
-
-<img src="https://skillicons.dev/icons?i=swift,apple&theme=dark" height="36" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-
 ### 🧱 [Nebular Design](https://github.com/XinyunZhang5/nebular-design)
 
 <img src="https://img.shields.io/github/stars/XinyunZhang5/nebular-design?style=flat-square&logo=github&label=stars&labelColor=1e1e2e&color=313244" />
@@ -99,6 +75,30 @@ Photograph a building and get a real LEGO parts list plus step-by-step build ins
 Turn AI conversations and web clippings into review cards. Captures ChatGPT, Claude and Gemini, schedules them with **SM-2**, and never leaves your machine.
 
 <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind&theme=dark" height="36" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🎤 [Whisper Helper](https://github.com/XinyunZhang5/whisper-helper)
+
+<img src="https://img.shields.io/github/stars/XinyunZhang5/whisper-helper?style=flat-square&logo=github&label=stars&labelColor=1e1e2e&color=313244" />
+
+A floating mic button for macOS. Click, speak, and it types into Claude Code or any other app. Runs on **whisper.cpp** entirely offline, Simplified Chinese by default.
+
+<img src="https://skillicons.dev/icons?i=lua,cpp,apple&theme=dark" height="36" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🕺 [Danceflux](https://github.com/XinyunZhang5/danceflux)
+
+<img src="https://img.shields.io/github/stars/XinyunZhang5/danceflux?style=flat-square&logo=github&label=stars&labelColor=1e1e2e&color=313244" />
+
+Compare your dance take against a reference video and get plain-language coaching tips. On-device **pose estimation, audio alignment and a phrase-bank engine**, with an LLM fallback.
+
+<img src="https://skillicons.dev/icons?i=swift,apple&theme=dark" height="36" />
 
 </td>
 </tr>
